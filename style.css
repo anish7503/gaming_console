@@ -156,7 +156,7 @@ body{
         flex-direction: column;
     }
     .ezgaming{
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
     .card{
         margin: auto;
@@ -168,7 +168,7 @@ body{
         flex-direction: column;
     }
     .heading{
-        padding-left: 12%;
+        padding-left: 5%;
         padding-top: 10%;
     }
     .div{
@@ -176,6 +176,6 @@ body{
     }
     .chat i{
         font-size: 25px;
-        padding-left: 55%;
+        padding-left: 40%;
     }
   }
